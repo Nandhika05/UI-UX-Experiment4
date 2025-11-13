@@ -16,7 +16,7 @@ To Design a wireframe diagram for a generic application or website using Balsami
 
 ## Output:
 
-[ex 4.pdf](https://github.com/user-attachments/files/23229799/ex.4.pdf)
+<img width="587" height="390" alt="image" src="https://github.com/user-attachments/assets/9190d700-6419-41d4-9658-1402c1760aa2" />
 
 ## Result:
 The wireframe diagram for a generic application or website using Balsamiq is designed and verified.
